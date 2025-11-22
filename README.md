@@ -15,15 +15,15 @@ No database is required — everything is stored in a single text file.
 
 ## Features
 
-* ✔ Register with username & password
-* ✔ Validation rules:
+*  Register with username & password
+*  Validation rules:
 
   * Username must contain **alphabets only**
   * Password must include **both letters and numbers**
-* ✔ Prevents duplicate usernames
-* ✔ Login system with simple verification
-* ✔ Clean and minimal front-end design (HTML + CSS)
-* ✔ Fully functional using only PHP's built-in server
+*  Prevents duplicate usernames
+*  Login system with simple verification
+*  Clean and minimal front-end design (HTML + CSS)
+*  Fully functional using only PHP's built-in server
 
 ---
 
