@@ -1,5 +1,5 @@
 
-# 📌 PHP Registration & Login System (File-Based)
+# PHP Registration & Login System (File-Based)
 
 This is a simple PHP project that demonstrates how to build a basic **user registration and login system** using a plain text file (`users.txt`) as storage.
 It’s perfect for beginners who want to learn:
@@ -13,7 +13,7 @@ No database is required — everything is stored in a single text file.
 
 ---
 
-## 🚀 Features
+## Features
 
 * ✔ Register with username & password
 * ✔ Validation rules:
@@ -27,7 +27,7 @@ No database is required — everything is stored in a single text file.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 /auth-system
@@ -45,7 +45,7 @@ No database is required — everything is stored in a single text file.
 
 ---
 
-## 💻 How to Run the Project
+## How to Run the Project
 
 ### 1. Make sure PHP is installed
 
@@ -70,9 +70,7 @@ php -S localhost:8000
 
 ---
 
-## 📝 How It Works
-
-### 🔹 Registration
+### Registration
 
 * User enters username + password
 * System validates:
@@ -82,13 +80,13 @@ php -S localhost:8000
 * System checks if username already exists
 * If valid → saves to `users.txt`
 
-### 🔹 Login
+### Login
 
 * Compares input with saved entries in `users.txt`
 * If a match is found → redirects to `welcome.php`
 
 
-## 📜 License
+## License
 
 This project is free to use, modify, and learn from.
 Feel free to fork and improve it in your own way!
